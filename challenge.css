@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-left {
+    width: 100px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+
+#nav-center {
+    width: 200px;
+    height: 100px;
+
+}
